@@ -1,0 +1,2 @@
+Learns a data set of faces by denoising them and leaving only the most important details by compressing the data using the PCA algorithm.
+Constructs a classifier which classifies a picture to the name of the person in the picture.
